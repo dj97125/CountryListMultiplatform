@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "3e1b271d4239c348474d88544ae470e6b024abc50ed9b4ee1e2370ead61dca15"
+build_start_time: [1706646616, 587208986]
+build_end_time: [1706646630, 812821865]
+inputs:
+  "/Users/danielcaballero/Documents/GitHub/CountryList/iosApp/iosApp/ContentView.swift": [1706640898, 62587499]
+  "/Users/danielcaballero/Documents/GitHub/CountryList/iosApp/iosApp/iOSApp.swift": [1706558648, 0]
