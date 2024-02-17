@@ -11,10 +11,10 @@ import org.koin.dsl.module
 
 object CountryNetwork {
     const val BASE_URL =
-        "https://api.controlbyweb.cloud/DAT/"
+        "https://gist.githubusercontent.com/peymano-wmt/32dcb892b06648910ddd40406e37fdab/raw/"
 
     object EndPoint {
-        const val ENDPOINT = "{unit-dat}/state.json?"
+        const val ENDPOINT = "db25946fd77c5873b0303b858e861ce724e0dcd0/countries.json"
     }
 }
 
