@@ -1,7 +1,0 @@
-#Tue Jan 30 10:24:54 CST 2024
-base.0=/Users/danielcaballero/Documents/GitHub/CountryList/composeApp/build/intermediates/dex/release/mergeDexRelease/classes.dex
-base.1=/Users/danielcaballero/Documents/GitHub/CountryList/composeApp/build/intermediates/dex/release/mergeDexRelease/classes2.dex
-path.0=classes.dex
-path.1=classes2.dex
-renamed.0=classes.dex
-renamed.1=classes2.dex
